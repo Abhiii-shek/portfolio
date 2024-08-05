@@ -29,7 +29,7 @@ const Navbar = () => {
       link:"https://instagram.com",
     },
   ]
-  const tailwindColors=["text-blue-500","text-green-500","text-gray-300" ,"text-pink-700"]
+  const tailwindColors=["text-green-500","text-green-500","text-gray-300" ,"text-pink-700"]
   return (
    
    <>
