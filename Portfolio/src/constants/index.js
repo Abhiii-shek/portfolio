@@ -59,7 +59,7 @@ export const PROJECTS = [
     description:
       "ochi.com is a award winning website ,I Try to make a clone for practise",
       technologies: ["HTML", "CSS", "ReactJs", "Tailwind"],
-    link:"https://github.com/Abhiii-shek/oochi"
+    link:"https://github.com/Abhiii-shek/oocchi"
     
   },
   {
