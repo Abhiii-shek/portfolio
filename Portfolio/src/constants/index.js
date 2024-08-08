@@ -4,7 +4,7 @@ import project5 from "../assets/projects/project5.jpg";
 import ochi from "../assets/projects/ochi.png"
 import telegram1 from "../assets/projects/telegram1.png"
 import portfolio from "../assets/projects/portfolio.png"
-import motion from "../assets/projects/motion.jpg"
+import motion from "../assets/projects/motion.jpeg"
 
 
 
