@@ -4,7 +4,7 @@ import project5 from "../assets/projects/project5.jpg";
 import ochi from "../assets/projects/ochi.png"
 import telegram1 from "../assets/projects/telegram1.png"
 import portfolio from "../assets/projects/portfolio.png"
-
+import motion from "../assets/projects/motion.jpg"
 
 
 
@@ -85,6 +85,13 @@ export const PROJECTS = [
       "An api oriented project which takes images from unsplash api and run a slideshow",
       technologies: ["HTML", "CSS", "ReactJs", "Tailwind"],
     link:"https://github.com/Abhiii-shek/imageSlider"
+  }, {
+    title: "Wedding invites and Posts",
+    image: motion,
+    description:
+      "Motion graphics and video editing skills",
+      technologies: ["HTML", "CSS", "ReactJs", "Tailwind"],
+    link:"https://drive.google.com/drive/folders/1jwf5a5LW50r74Qo0hLPQCte_W7AX-auX?usp=drive_link"
   },
   
 ];

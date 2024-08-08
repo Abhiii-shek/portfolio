@@ -18,7 +18,7 @@ const Contacts = () => {
         className='text-center tracking-tighter'>
             <p className='my-4'>{CONTACT.address}</p>
             <p className='my-4 '>{CONTACT.phoneNo}</p>
-            <a className='border-b' href="https://mail.google.com/mail/u/0/#inbox?compose=new">{CONTACT.email}</a>
+            <a className='border-b underline decoration-sky-500' href="https://mail.google.com/mail/u/0/#inbox?compose=new">{CONTACT.email}</a>
 
         </motion.div>
     </div>
